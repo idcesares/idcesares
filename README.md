@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello World, eu sou Isaac D'Césares 👋
+
+😄 Sobre mim
+Graduado em Desenvolvimento de Sistemas (UNESA), com especialização em Inovação em Engenharia de Software (POLI-UFRJ) e Design e Implementação de Espaços Maker Educacionais (Stanford University), atua a 9 anos na área de Tecnologia Educacional da Escola Sesc de Ensino Médio, onde é educador do programa de Cultura Tecnológica, Empreendedorismo e dos Espaços Maker da Escola.
 
 <!--
 **idcesares/idcesares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +17,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
