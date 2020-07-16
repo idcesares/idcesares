@@ -1,6 +1,6 @@
-### Hello World, eu sou Isaac D'Césares 👋
+# Hello World, eu sou Isaac D'Césares 👋
 
-😄 Sobre mim
+## 😄 Sobre mim
 Graduado em Desenvolvimento de Sistemas (UNESA), com especialização em Inovação em Engenharia de Software (POLI-UFRJ) e Design e Implementação de Espaços Maker Educacionais (Stanford University), atua a 9 anos na área de Tecnologia Educacional da Escola Sesc de Ensino Médio, onde é educador do programa de Cultura Tecnológica, Empreendedorismo e dos Espaços Maker da Escola.
 
 <!--
