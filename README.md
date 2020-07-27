@@ -7,13 +7,13 @@
 
 - 🌱 Estou aprendendo **Deep Learning (Neural Networks)**
 
-- 👯 Estou procurando colaboração em **Tecnologias Educacionais e Inteligência Arttificial**
+- 👯 Estou procurando colaboração em **Tecnologias Educacionais e Inteligência Artificial**
 
 - 🤔 Estou procurando ajuda com **Tecnologias de Machine Learning e LowCode**
 
 - 👨‍💻 Meus projetos e contatos estão disponíveis em [idcesares.github.com](idcesares.github.com)
 
-- 📝 Geralmente escrevo artigos sobre [Movimento Maker, Espaços Maker, Inteligência Artificial](Movimento Maker, Espaços Maker, Inteligência Artificial)
+- 📝 Geralmente escrevo artigos sobre [Movimento Maker, Espaços Maker, Inteligência Artificial]
 
 - 💬 Me pergunte sobre **Tecnologias Educacionais, Inteligência Artificial na Educação, Educação Maker, Espaços Maker, Fabricação Digital**
 
