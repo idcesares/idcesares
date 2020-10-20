@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Isaac D'Césares</h1>
+<h1 align="center">Olá 👋, eu sou Isaac D'Césares</h1>
 <h3 align="center">Graduado em Desenvolvimento de Sistemas (UNESA), com especialização em Inovação em Engenharia de Software (POLI-UFRJ) e Design e Implementação de Espaços Maker Educacionais (Stanford University), atua há 9 anos na área de Tecnologia Educacional da Escola Sesc de Ensino Médio, onde é educador do programa de Cultura Tecnológica, Empreendedorismo e dos Espaços Maker da Escola. Pesquisador de tecnologias e suas metodologias aplicadas a educação básica.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=idcesares" alt="idcesares" /> </p>
