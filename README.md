@@ -3,21 +3,21 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=idcesares" alt="idcesares" /> </p>
 
-- 🔭 Atualmente trabalhando com [Clube de Inteligência Artificial](https://github.com/idcesares/Clube-de-IA-ESEM)
+🔭 Atualmente trabalhando com [Clube de Inteligência Artificial](https://github.com/idcesares/Clube-de-IA-ESEM)
 
-- 🌱 Estou aprendendo **Deep Learning (Neural Networks)**
+🌱 Estou aprendendo **Deep Learning (Neural Networks)**
 
-- 👯 Estou procurando colaboração em **Tecnologias Educacionais e Inteligência Artificial**
+👯 Estou procurando colaboração em **Tecnologias Educacionais e Inteligência Artificial**
 
-- 🤔 Estou procurando ajuda com **Tecnologias de Machine Learning e LowCode**
+🤔 Estou procurando ajuda com **Tecnologias de Machine Learning e LowCode**
 
-- 👨‍💻 Meus projetos e contatos estão disponíveis em [idcesares.vercel.app](idcesares.vercel.app)
+👨‍💻 Meus projetos e contatos estão disponíveis em [idcesares.vercel.app](idcesares.vercel.app)
 
-- 📝 Geralmente escrevo artigos sobre [Movimento Maker, Espaços Maker, Inteligência Artificial]
+📝 Geralmente escrevo artigos sobre [Movimento Maker, Espaços Maker, Inteligência Artificial]
 
-- 💬 Me pergunte sobre **Tecnologias Educacionais, Inteligência Artificial na Educação, Educação Maker, Espaços Maker, Fabricação Digital**
+💬 Me pergunte sobre **Tecnologias Educacionais, Inteligência Artificial na Educação, Educação Maker, Espaços Maker, Fabricação Digital**
 
-- 📫 Meu e-mail **isaac.dcesares@gmail.com**
+📫 Meu e-mail **isaac.dcesares@gmail.com**
 
 <a href="https://codepen.io/idcesares" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="idcesares" height="20" width="20" /></a>
 <a href="https://dev.to/idcesares" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="idcesares" height="20" width="20" /></a>
