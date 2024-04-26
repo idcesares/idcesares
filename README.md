@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **No-code development, AutoML, Dataviz Frameworks, Explainable AI**
 
-- 👨‍💻 All of my projects are available at [isaac.dcesares.dev](isaac.dcesares.dev)
+- 👨‍💻 All of my projects are available at [dcesares.dev](https://dcesares.dev)
 
-- 📝 I regularly write articles on [https://medium.com/@isaacdcesares](https://medium.com/@isaacdcesares)
+- 📝 I regularly write articles on [dcesares.dev/blog](https://dcesares.dev/blog)
 
 - 💬 Ask me about **Educational Technologies, Maker Movement, Makerspaces and Fablabs, Computational Thinking and Data Science**
 
