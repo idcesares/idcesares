@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=idcesares&label=Profile%20views&color=0e75b6&style=flat" alt="idcesares" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=idcesares" alt="idcesares" /></a> </p>
-
 - 🔭 I’m currently working on **Adaptative Learning, AI Platforms, AI Models, AI Frameworks for Education, Explainable AI**
 
 - 🌱 I’m currently learning **Agentic AI, RAG, AI Education Frameworks**
