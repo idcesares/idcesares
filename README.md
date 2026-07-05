@@ -1,5 +1,7 @@
 # Isaac D'Césares
 
+<img src="https://www.gravatar.com/avatar/b3cb08b6b4fc4650755a79f4479edaf8?s=200" alt="Isaac D'Césares Gravatar" width="120" align="right" />
+
 **Researcher · Educator · Builder**
 Where cognition meets code.
 
